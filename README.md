@@ -1,8 +1,7 @@
-## Hi there 👋
 
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=yaakitori" />
 </div>
 
 
