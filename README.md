@@ -6,6 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
+- 🗾 I live in Ibaraki now.
 - 🧑‍💻 I'm a Mechanical Systems Engineering student.
 - 🌱 I’m currently learning ML!
 - 📫 How to reach me: [Twitter - @megima777](https://x.com/megima777)
