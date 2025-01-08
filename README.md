@@ -9,7 +9,9 @@
 - 🗾 I live in Ibaraki now.
 - 🧑‍💻 I'm a Mechanical Systems Engineering student.
 - 🌱 I’m currently learning ML!
-- 📫 How to reach me: [Twitter - @megima777](https://x.com/megima777)
+- 📫 How to reach me: 
+  - [Twitter - @megima777](https://x.com/megima777)
+  - [Qiita - yakitoriii](https://qiita.com/yakitoriii)
 <br>
 
 
